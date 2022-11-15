@@ -1,3 +1,6 @@
+# Styled-components
+ The cool feature of styled-components is that you can set up the styling condition through the props and also it is very much customizable.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
